@@ -1,4 +1,6 @@
 # World_Weather_Analysis
+Collect and present city, hotel, and weather data for travel technology app "PlanMyTrip."
+
 
 ## Project Overview
 
